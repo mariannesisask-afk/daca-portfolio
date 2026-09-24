@@ -26,7 +26,7 @@ Kasutasin ChatGPT-d GitHubi seadistamise ja dokumentatsiooni koostamise juures.
 
 Küsisin abi järgmistes küsimustes:
 
-- kuidas koostada meie meeskonna eesmärgile sobiv GitHubi `README.md`;
+- kuidas koostada meie meeskonna eesmärgile sobiv GitHubi README.md;
 - milline info peaks meeskonna README-s kindlasti olema;
 - kuidas lisada ja kontrollida GitHubis meeskonnaliikmeid collaborator'itena;
 - kuidas koostada Markdown-vormingus dokumentatsiooni;
