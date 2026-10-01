@@ -14,15 +14,17 @@ FROM customers;
 SELECT COUNT(*) - COUNT(DISTINCT customer_id) AS duplikaatsete_ridade_arv
 FROM customers;
 
--- Otsin korduvaid emaile
+-- Otsin puuduvaid emaile
 SELECT COUNT(*) - COUNT(email) 
 AS puuduvad_emailid
 FROM customers;
 
--- Mitu klienti, kus e-mail on puudu?
-SELECT COUNT(*) - COUNT(email)
-AS puuduvad_emailid
-FROM customers;
+-- Otsin kliendid, kellel on unikaalne customer_id kuid kelle e-maili kordub (topeltkontod)
+SELECT email, COUNT(*)
+FROM customers
+WHERE email IS NOT NULL
+GROUP BY email
+HAVING COUNT(*) > 1;
 
 -- Millistest erinevatest linnadest kliendid tulevad?
 SELECT DISTINCT city 
@@ -52,3 +54,4 @@ LIMIT 15;
 SELECT COUNT(*) - COUNT(first_name)
 AS puuduvad_eesnimed
 FROM customers;
+
