@@ -17,7 +17,17 @@
 
 Lisasin team TURUNDUS GitHubi week 1 kausta README ja igaüks tegeles grupitöö raames enda rolliga. 
 
+## Meeskonnaliikmete rollid
 
+| Nimi | Roll (Nädal 1) | OS |
+|---|---|---|
+| Hannes Saarmets | A: Sales Data Explorer | Mac |
+| Marianne Sisask | B: Customer Data Explorer | Mac |
+| Kerty Kaljumäe | C: Product Data Explorer | Windows |
+| Katariina Raid | D: Sales Dimensions Explorer | Windows |
+
+## Meekonnatöö väljund
+[Data Landscape](https://docs.google.com/presentation/d/161mYvYUS1QDQuT8mBqgDpTf0yS7nxSFBUKqYIfqK_oo/edit?slide=id.h65b33f36280e1186_0_10#slide=id.h65b33f36280e1186_0_109)
 
 
 ## Minu roll
@@ -32,11 +42,6 @@ Minu vastutus Week 1 jooksul on uurida customers tabelit ja saada aru:
 - kus esineb puuduvaid väärtusi;
 - kas esineb duplikaate;
 - millised väärtused vajavad täiendavat kontrolli
-
-
-Tabelis on **3 150 kirjet**.
-
-Oluline tähelepanek: kõik tekstilised väljad ei ole automaatselt probleemivabad. Näiteks võib email olla NULL, mistõttu tuleb puuduvate väärtuste olemasolu eraldi kontrollida, samuti esines samadel väärtustel erinevat kirjapilti, mida sql erinevaks luges, nt linnad. See vajab väga palju tähelepanu, sest sellisel kujul on tulemused valed ja väärtusetud. Lähemalt esitlesin leide ja ettepanekuid meeskonnatöö slaidiesitluses: 
 
 
 ## Mida ma õppisin
