@@ -43,7 +43,7 @@ Lisasin team TURUNDUS GitHubi week 2 kausta README ja igaüks tegeles grupitöö
 
 ## Meekonnatöö väljund
 
-
+(siia lisada slaidi viide)
 
 
 ## Mida ma õppisin
