@@ -47,19 +47,18 @@ Minu vastutus Week 1 jooksul on uurida customers tabelit ja saada aru:
 ## Mida ma õppisin
 
 - SQL-is on oluline mõista päringu loogikat, mitte ainult süntaksit.
-- SELECT ja `FROM` abil saab andmeid lugeda.
+- SELECT ja FROM abil saab andmeid lugeda.
 - WHERE abil saab andmeid filtreerida.
 - DISTINCT aitab leida erinevaid väärtusi.
 - COUNT aitab andmeid loendada.
 - ORDER BY ja LIMIT aitavad tulemusi uurimiseks paremini kontrollida.
 - AND, OR ja sulud määravad filtreerimise loogika.
 - GROUP BY võimaldab andmeid rühmade kaupa võrrelda.
-- Kui tabeli veerud on tekstina, tuleb numbriliste arvutuste jaoks vajadusel kasutada tüübi teisendust, näiteks `::numeric`.
+- Kui tabeli veerud on tekstina, tuleb numbriliste arvutuste jaoks vajadusel kasutada tüübi teisendust, näiteks ::numeric.
 - Andmete tehniline korrektsus ja äriline korrektsus ei ole sama asi.
 - Enne äriotsuste tegemist tuleb kontrollida andmekvaliteeti.
 
 - Kontrollida tuleb näiteks ka:
-
 - duplikaate;
 - NULL-väärtusi;
 - negatiivseid summasid;
