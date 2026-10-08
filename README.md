@@ -21,8 +21,8 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ### Week 2: SQL Andmete Puhastamine
 - Turvaline andmete puhastamine SQL-keele abil, vältides kriitilisi vigu ja väärtusliku info kaotamist ✅
 
-### Week 3: 
-- Tulemas...
+### Week 3: SQL JOINs
+- SQL JOIN-päringute praktiline rakendamine
 
 ## Oskused
 
