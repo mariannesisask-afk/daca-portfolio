@@ -31,9 +31,9 @@ Puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused)
 | Marianne Sisask | C: Product Data Cleaner | Mac |
 | Kerty Kaljumäe | D: Data Quality Analyst | Windows |
 
-## Meekonnatöö väljund
+## Meekonnatöö väljund: koondraport puhastamise tulemustega:
 
-(siia lisada slaidi viide)
+W2-session3-demo
 
 
 ## Mida ma õppisin
