@@ -33,7 +33,7 @@ Puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused)
 
 ## Meekonnatöö väljund: koondraport puhastamise tulemustega:
 
-W2-session3-demo
+[W2-session3-demo](https://docs.google.com/presentation/d/1eH0oy5EjVSSXujXePEVqBoE1ndanLZXcpGtI95Zl9yA/edit?usp=sharing)
 
 
 ## Mida ma õppisin
