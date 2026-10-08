@@ -13,9 +13,6 @@
 - Harjutasin andmete filtreerimist, sorteerimist, loendamist ja rühmitamist.
 - Uurisin ka andmekvaliteedi ja ärilise tähenduse seoseid ja tegin ettepanekuid juhtkonnale.
 
-## Meekonnatöö
-
-Lisasin team TURUNDUS GitHubi week 1 kausta README ja igaüks tegeles grupitöö raames enda rolliga. 
 
 ## Meeskonnaliikmete rollid
 
