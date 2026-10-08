@@ -16,10 +16,13 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 - Python seadistamine ✅
 
 ### Week 1: SQL Põhitõed
-- SQL andmete lugemiseks, filtreerimiseks, loendamiseks ja rühmitamiseks ✅
+- SQL-andmebaasipäringute põhitõed ja praktiline andmehaldus Supabase keskkonnas. ✅
 
 ### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
+- Turvaline andmete puhastamine SQL-keele abil, vältides kriitilisi vigu ja väärtusliku info kaotamist ✅
+
+### Week 3: 
+- Tulemas...
 
 ## Oskused
 
