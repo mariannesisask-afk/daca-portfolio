@@ -1,3 +1,5 @@
+W1-GT (roll customer explorer)
+
 -- Millised veerud ja andmed tabelis on, vaatan esimest 10 rida?
 SELECT * FROM customers
 LIMIT 10;
