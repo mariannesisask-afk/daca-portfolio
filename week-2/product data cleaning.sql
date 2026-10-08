@@ -1,3 +1,5 @@
+W2-GT (roll product cleaner)
+
 -- Teen tootetabelist koopia
 CREATE TABLE products_test AS SELECT * FROM products;SELECT COUNT(*) AS ridade_arv FROM products_test;
 
