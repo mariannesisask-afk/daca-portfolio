@@ -18,9 +18,9 @@ Minu vastutus Week 2 jooksul on luua products tabelist koopia ja seejärel puhas
 
 Puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused)
 
-- week-1/README.me — nädala töö ja minu osa kirjeldus
-- week-1 SQL-päringud sql failina
-- Week-1 päringute ja tulemuste ekraanipildid
+- week-2/README.me — nädala töö ja minu osa kirjeldus
+- week-2 SQL-päringud sql failina
+- Week-2 päringute ja tulemuste ekraanipildid
 
 ## Meeskonnaliikmete rollid
 
