@@ -16,7 +16,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 - Python seadistamine ✅
 
 ### Week 1: SQL Põhitõed
-- (tulemas...)
+- SQL andmete lugemiseks, filtreerimiseks, loendamiseks ja rühmitamiseks ✅
 
 ### Week 2: SQL Andmete Puhastamine
 - (tulemas...)
