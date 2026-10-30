@@ -2,7 +2,7 @@
 
 ## Minu roll
 
-**Müügikanalid + Kliendid (INNER JOIN + mitme tabeli JOIN)**
+**Turundus + müük (INNER JOIN)**
 
 Minu vastutus Week 3 jooksul on analüüsida müügikanalite efektiivsust:
 
