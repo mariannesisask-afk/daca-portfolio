@@ -15,9 +15,9 @@ Minu vastutus Week 4 jooksul on koosta müügistatistika raport: kuu- ja kategoo
 
 SQL päringud (.sql fail) + tulemuste screenshot + analüüs
 
-- week-3/README.me — nädala töö ja minu osa kirjeldus
-- week-3 SQL-päringud sql failina
-- Week-3 päringute ja tulemuste ekraanipildid
+- week-4 README.me — nädala töö ja minu osa kirjeldus
+- week-4 SQL-päringud sql failina
+- Week-4 päringute ja tulemuste ekraanipildid
 
 ## Meeskonnaliikmete rollid
 
