@@ -45,7 +45,6 @@ Analüüsi käigus keskendusin järgmistele ärilistele küsimustele:
 - Kas talveperioodil oleks võimalik müüki suurendada?
 - Milliste tegevustega saaks hooajalist müügikõikumist vähendada?
 
-## Juhtide kokkuvõte
 
 **Peamised järeldused:**  (LISA NEED)
 
