@@ -47,13 +47,13 @@ Analüüsi käigus keskendusin järgmistele ärilistele küsimustele:
 
 ## Juhtide kokkuvõte
 
-**Peamised järeldused:**
+**Peamised järeldused:**  (LISA NEED)
 
-1. [Lisa peamine tähelepanek Pärnu kaupluse müügitulemuste kohta.]
-2. [Lisa suve- ja talveperioodi müügitulemuste võrdlus.]
-3. [Lisa tähelepanek TOP 5 toodete kohta.]
-4. [Lisa oluline hooajaline müügitipp või madalseis.]
-5. [Lisa peamine kasvuvõimalus.]
+1. [Peamine tähelepanek Pärnu kaupluse müügitulemuste kohta.]
+2. [Suve- ja talveperioodi müügitulemuste võrdlus.]
+3. [Tähelepanek TOP 5 toodete kohta.]
+4. [Oluline hooajaline müügitipp või madalseis.]
+5. [Peamine kasvuvõimalus.]
 
 **Äriline soovitus:**
 
