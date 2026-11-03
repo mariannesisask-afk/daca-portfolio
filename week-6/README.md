@@ -1,8 +1,10 @@
-Nädal 6 – Pärnu kaupluse andmete visualiseerimine
+# Week 6 — Visualiseerimise andmed
 
-## Nädala eesmärk
+## Minu roll
 
-Selle nädala eesmärk oli analüüsida UrbanStyle'i Pärnu kaupluse müügiandmeid ning luua nende põhjal interaktiivne dashboard koos andmelooga.
+**Marketing Pärnu kaupluse analüüs**
+
+Minu selle nädala eesmärk oli analüüsida UrbanStyle'i Pärnu kaupluse müügiandmeid ning luua nende põhjal interaktiivne dashboard koos andmelooga.
 
 Pärnu kauplus on ettevõtte väikseim füüsiline kauplus, mille müüki mõjutab tugevalt hooajalisus. Minu ülesanne oli analüüsida müügitrende, tuvastada hooajalisi mustreid, hinnata suve- ja talveperioodi erinevusi ning leida võimalusi müügi kasvatamiseks madalhooajal.
 
