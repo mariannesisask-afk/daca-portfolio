@@ -2,7 +2,7 @@
 
 ## Minu roll
 
-**Marketing Pärnu kaupluse analüüs**
+**Roll C - Pärnu kaupluse dashboard + narratiiv**
 
 Minu selle nädala eesmärk oli analüüsida UrbanStyle'i Pärnu kaupluse müügiandmeid ning luua nende põhjal interaktiivne dashboard koos andmelooga.
 
@@ -74,10 +74,23 @@ Pärnu kauplus on UrbanStyle'i väikseim füüsiline kauplus, mille müügitulem
 ## Meeskonnatöö
 
 Osalesin UrbanStyle'i müügiandmete analüüsi grupitöös, kus minu vastutusalaks oli Pärnu kaupluse andmete analüüs ja visualiseerimine.
-
 Meeskonna ühise töö eesmärk oli võrrelda Tallinna, Tartu ja Pärnu kaupluste ning e-poe tulemusi ja koostada nende põhjal terviklik juhtimisvaade.
 
-**Minu panus:** Pärnu kaupluse dashboard, hooajalisuse analüüs, juhtide kokkuvõte ja andmelugu.
+## Meeskonnaliikmete rollid
 
-Meeskonna ühine analüüs: [Lisa siia link meeskonna README-le või koondvaatele.]
+| Nimi | Roll (Nädal 6) | OS |
+|---|---|---|
+| Katariina Raid | A: Tallinna kaupluse dashboard + narratiiv | Windows |
+| Hannes Saarmets | B: Tartu kaupluse dashboard + narratiiv | Mac |
+| Marianne Sisask | C: Pärnu kaupluse dashboard + narratiiv| Mac |
+| Kerty Kaljumäe | D: E-poe dashboard + narratiiv | Windows |
+
+
+## Väljund
+
+Meeskonna koondraport tulemustega:
+
+[W6-session6-demo](https://docs.google.com/presentation/d/1JDoqBSPOq30tIuXaBG0nYI7aHiU0654mOjI_d42owHg/edit?slide=id.h48b72d7676d1c47c_0_0#slide=id.h48b72d7676d1c47c_0_0)
+
+
 
