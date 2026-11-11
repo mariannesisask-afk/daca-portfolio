@@ -9,9 +9,9 @@ Minu vastutus Week 7 jooksul oli luua 3 Plotly diagrammi RFM tulemuste esitamise
 ## Minu week-7 töö väljund
 
 Jupyter Notebook sektsioon, mis sisaldab:
-3 Plotly diagrammi (segmentide jaotus, hajuvusdiagramm, top VIP)
-Äritõlgendust Markole (3-5 lauset)
-Konkreetseid soovitusi (VIP programm, win-back kampaania)
+- 3 Plotly diagrammi (segmentide jaotus, hajuvusdiagramm, top VIP)
+- Äritõlgendust Markole (3-5 lauset)
+- Konkreetseid soovitusi (VIP programm, win-back kampaania)
 
 ## Meeskonnaliikmete rollid
 
