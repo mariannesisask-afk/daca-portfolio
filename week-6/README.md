@@ -34,26 +34,6 @@ Dashboard sisaldab järgmisi vaateid:
 4. **KPI näitajad** – kogukäive, tellimuste arv ja keskmine tellimus.
 5. **Hooajalisuse visualiseerimine** – diagrammidel annotatsioonid ja võrdlusjoon, mis aitavad olulisi muutusi paremini mõista.
 
-## Peamised analüüsi fookused
-
-Analüüsi käigus keskendusin järgmistele ärilistele küsimustele:
-
-- Millistel kuudel on Pärnu kaupluse müügitulemused kõige paremad?
-- Kui suur osa aastakäibest tuleb suveperioodil?
-- Millised tooted on kõige populaarsemad?
-- Millal esineb müügis kõige suurem langus?
-- Kas talveperioodil oleks võimalik müüki suurendada?
-- Milliste tegevustega saaks hooajalist müügikõikumist vähendada?
-
-
-**Peamised järeldused:**  (LISA NEED)
-
-1. [Peamine tähelepanek Pärnu kaupluse müügitulemuste kohta.]
-2. [Suve- ja talveperioodi müügitulemuste võrdlus.]
-3. [Tähelepanek TOP 5 toodete kohta.]
-4. [Oluline hooajaline müügitipp või madalseis.]
-5. [Peamine kasvuvõimalus.]
-
 **Äriline soovitus:**
 
 Pärnu kaupluse puhul on oluline arvestada hooajalise nõudlusega. Soovitan analüüsida võimalusi talveperioodi müügi suurendamiseks, näiteks hooajaliste kampaaniate, eripakkumiste ja erinevate turundustegevuste abil. Suveperioodi müügitulemusi tuleks kasutada planeerimise alusena, et optimeerida toodete valikut ja laoseisu.
