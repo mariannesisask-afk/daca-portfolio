@@ -24,7 +24,8 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ### Week 3: SQL JOINs
 - SQL JOIN-päringute praktiline rakendamine
 
-### Week 4:
+### Week 4: SQL agregatsioon
+
 
 ### Week 5:
 
