@@ -2,7 +2,7 @@
 
 ## Minu roll
 
-**Visualization**
+**Roll D Visualization**
 
 Minu vastutus Week 7 jooksul oli luua 3 Plotly diagrammi RFM tulemuste esitamiseks ja koostada lühikeäritõlgendus Markole peamiste leidude ja soovitustega.
   
