@@ -17,7 +17,7 @@ SQL päringud (.sql fail) + tulemuste screenshot + analüüs
 
 - week-4 README.me — nädala töö ja minu osa kirjeldus
 - week-4 SQL-päringud sql failina
-- Week-4 päringute ja tulemuste ekraanipildid
+- Week-4 ekraanipilt minu tulemustest 
 
 ## Meeskonnaliikmete rollid
 
