@@ -27,12 +27,13 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ### Week 4: SQL agregatsioon
 - GROUP BY ja agregaatfunktsioonid ✅
 
-### Week 5:Visualiseerimise Disain
+### Week 5: Visualiseerimise Disain
 - Visualiseerimise põhimõtted ja dashboard'i anatoomia ✅
 
-### Week 6:
+### Week 6: Andmelood ja Dashboard'i Valmistamine
+Andmelugude raamistik + kokkuvõte juhtidele ✅
 
-### Week 7:
+### Week 7: 
 
 ### Week 8:
 
