@@ -22,3 +22,6 @@ Meeskonna ülesandeks on luua automaatne andmetöötluse torustik ehk pipeline�
 | Kerty Kaljumäe | B: Data Processing  | Windows |
 | Katariina Raid | C: Visualization + Saving| Windows |
 | Hannes Saarmets | D: Automation Script | Mac |
+
+## Nädala tulemus 
+Töötav end-to-end pipeline, kus 4 moodulit ühendatakse üheks süsteemiks ja töötab veatult.
