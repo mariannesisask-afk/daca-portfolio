@@ -11,9 +11,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ## Projektid
 
 ### Week 0: Onboarding
-- GitHub seadistamine ✅
-- Supabase seadistamine ✅
-- Python seadistamine ✅
+- GitHub seadistamine, Supabase seadistamine, Python seadistamine ✅
 
 ### Week 1: SQL Põhitõed
 - SQL-andmebaasipäringute põhitõed ja praktiline andmehaldus Supabase keskkonnas. ✅
