@@ -2,7 +2,13 @@
 
 ## Roll A API Query
 
-Minu selle nädala ülesandeks on pärida andmed UrbanStyle.ltd Supabase API-st, testida neid ja luua 3 väljundfaili customers.csv, products.csv ja sales.csv.
+Minu selle nädala ülesandeks on luua Python funktsioonid, mis pärivad andmeid UrbanStyle.ltd Supabase API-st: müügi- kliendi- ja tooteandmed. 
+
+## Sisend 
+Upabase Python Client (supabase-py), .env fail API tunnustega
+
+## Väljund
+data_fetcher.py fail, 3 funktisooni, mis tagastavad DataFrame´e (fetch-sales, fetch-products, fetch-customers)
 
 ## Meeskonna eesmärk 
 
