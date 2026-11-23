@@ -24,11 +24,25 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ### Week 3: SQL JOINs
 - SQL JOIN-päringute praktiline rakendamine
 
+### Week 4:
+
+### Week 5:
+
+### Week 6:
+
+### Week 7:
+
+### Week 8:
+
+### Week 9:
+
+### Week 10:
+
 ## Oskused
 
 - **SQL:** PostgreSQL, Supabase
 - **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+- **Visualiseerimine:** Power BI 
 - **Tööriistad:** Git, GitHub, VS Code
 
 ## Kontakt
