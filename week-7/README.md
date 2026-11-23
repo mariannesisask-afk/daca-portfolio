@@ -24,9 +24,10 @@ Jupyter Notebook sektsioon, mis sisaldab:
 
 ## Meekonnatöö väljund: 
 
-Üks terviklik Jupyter Notebook, kus iga sektsioon on koostatud uhe meeskonnaliikme poolt. Notebook jookseb algusest lõpuni ilma veata. 
-
+1. Üks terviklik Jupyter Notebook, kus iga sektsioon on koostatud uhe meeskonnaliikme poolt. Notebook jookseb algusest lõpuni ilma veata. 
 [RFM analysis marketing](week7_rfm_analysis_marketing.ipynb)
+2. Slaidiesitlus
+[W7-session7-demo.md](https://docs.google.com/presentation/d/12uFSfnfwM7g_wpSsCB80iVCUt2_qIWbxNVRI2Ty02pg/edit?usp=sharing)
 
 ## Mida ma õppisin
 
