@@ -31,13 +31,16 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 - Visualiseerimise põhimõtted ja dashboard'i anatoomia ✅
 
 ### Week 6: Andmelood ja Dashboard'i Valmistamine
-Andmelugude raamistik + kokkuvõte juhtidele ✅
+- Andmelugude raamistik + kokkuvõte juhtidele ✅
 
-### Week 7: 
+### Week 7: Python ja Pandas
+- Python keskkond, pandas DataFrame anatoomia, RFM raamistik, live kodeerimine, andmete laadimine ja uurimine ✅
 
-### Week 8:
+### Week 8: Python API'd ja automatiseerimine
+- Supabase API + Python integratsioon. API fetch, filtreerimine, veakasitlus ✅
 
-### Week 9:
+### Week 9: Karjääri ettevalmistus
+- Värbamisjuhend tööandja pilgu läbi ✅
 
 ### Week 10:
 
