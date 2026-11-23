@@ -2,7 +2,7 @@
 
 ## Minu roll
 
-**Marketing Dashboard**
+**Roll B Marketing Dashboard**
 
 Minu vastutus Week 5 jooksul teha müügikanalite analüüs, vaadata, millised müügikanalid toovad kõige rohkem kliente ja müüki ja milline on olnud uute klientide arv kuude lõikes
 
