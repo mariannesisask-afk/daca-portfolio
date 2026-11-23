@@ -2,7 +2,7 @@
 
 ## Roll A API Query
 
-Minu selle nädala ülesandeks on pärida andmed UrbanStyle.ltd Supabase API-st, testida neid ning luua 3 väljundfaili customers.csv, products.csv ja sales.csv.
+Minu selle nädala ülesandeks on pärida andmed UrbanStyle.ltd Supabase API-st, testida neid ja luua 3 väljundfaili customers.csv, products.csv ja sales.csv.
 
 ## Meeskonna eesmärk 
 
